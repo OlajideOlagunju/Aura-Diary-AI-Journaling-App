@@ -46,16 +46,16 @@ Aura Diary is designed to be your personal sanctuary, combining modern technolog
     <td align="center"><strong>The AI Journal Guide</strong></td>
   </tr>
   <tr>
-    <td><img src="https://storage.googleapis.com/makerimages/uploads/2022/3/1/image_picker7721532168390776856.png" alt="Screenshot of the main entry screen" width="400"></td>
-    <td><img src="https://user-images.githubusercontent.com/1098633/222204919-ca78d783-8a9d-4871-823c-a7ac33a8b417.png" alt="Screenshot of the AI chat prompt feature" width="400"></td>
+    <td><img src="https://storage.googleapis.com/makerimages/uploads/2022/3/1/image_picker7721532168390776856.png" alt="Main entry screen" width="400"></td>
+    <td><img src="https://user-images.githubusercontent.com/1098633/222204919-ca78d783-8a9d-4871-823c-a7ac33a8b417.png" alt="AI chat prompt feature" width="400"></td>
   </tr>
    <tr>
     <td align="center"><strong>Mood Calendar</strong></td>
     <td align="center"><strong>Customizable Themes</strong></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/1098633/222204912-b5266854-9456-4293-87a3-5c8c51233fd3.png" alt="Screenshot of the mood tracking calendar" width="400"></td>
-    <td><img src="https://user-images.githubusercontent.com/1098633/222204914-7297e6e5-402a-4467-961f-4952d7c5b61e.png" alt="Screenshot of the theme settings" width="400"></td>
+    <td><img src="https://user-images.githubusercontent.com/1098633/222204912-b5266854-9456-4293-87a3-5c8c51233fd3.png" alt="Mood tracking calendar" width="400"></td>
+    <td><img src="https://user-images.githubusercontent.com/1098633/222204914-7297e6e5-402a-4467-961f-4952d7c5b61e.png" alt="Theme settings" width="400"></td>
   </tr>
 </table>
 
@@ -103,7 +103,6 @@ Coming Soon!
 Have questions, feedback, or need help? We'd love to hear from you!
 
 -   **Email us at:** `support@auradiary.app`
--   **Follow us on Twitter:** `[@AuraDiaryApp](https://twitter.com/AuraDiaryApp)` (Optional: Create a Twitter account for your app)
 
 <div align="center">
 Made with ❤️ for anyone seeking clarity and peace of mind.
